@@ -1,6 +1,6 @@
-package Ch_06.Sec_6_1_2;
+package Ch_06.Sec_6_1_3;
 
-public class Main {
+public class Sec_6_1_3 {
     public static void main(String[] args) {
         Car eletricCar = new ElectricCar("BMW");
         Car petrolCar = new PetrolCar("Audi");
