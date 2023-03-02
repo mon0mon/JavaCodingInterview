@@ -1,4 +1,4 @@
-package Ch_06.Sec_6_1_3;
+package Ch_06.Sec_6_1_3_Abstraction;
 
 public interface Car{
     public void speedUp();
